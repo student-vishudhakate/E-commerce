@@ -8,7 +8,12 @@ This is a simple To-Do list application built using HTML, CSS, and JavaScript.
 - Mark tasks as complete
 - Delete tasks from the list
 - Save tasks locally in the browser
-
+  
+## Technologies used:
+- HTML
+- CSS
+- Javascript
+  
 ## Usage
 
 1. Clone the repository:
